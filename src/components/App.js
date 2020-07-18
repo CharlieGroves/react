@@ -1,4 +1,7 @@
 import React from 'react'
+
+import Navbar from './Navbar'
+import MainContent from './MainContent'
 import Footer from './Footer'
 
 /* Use Capital Camel Case for this
@@ -9,6 +12,8 @@ if you are trying to return more than one elements */
 function App() {
     return (
         <>
+            <Navbar />
+            <MainContent />
             <Footer />
         </>
     )
