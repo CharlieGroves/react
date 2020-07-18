@@ -21,7 +21,7 @@ function MyApp() {
 
             Nullam nec dapibus lacus, sit amet rutrum dui. Mauris interdum, massa in scelerisque dapibus, dolor lectus ultrices massa, sed eleifend neque ligula in mi. Nam suscipit ligula placerat nisl molestie iaculis. Nullam a sapien ex. Vivamus pharetra ex est, a auctor neque luctus eget. Donec sed finibus dui. Nullam et nibh vel enim egestas placerat. Maecenas non tincidunt enim. Pellentesque non congue nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet justo enim.
             </p>
-            <ol>
+            <ol style={{backgroundColor: 'red'}}>
                 <li>France</li>
                 <li>America</li>
                 <li>Japan</li>
